@@ -170,5 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-data/*.csv
-output/*.png
+data/
+!data/.gitinclude
+output/
+!output/.gitinclude
