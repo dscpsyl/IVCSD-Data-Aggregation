@@ -1,4 +1,6 @@
-# IVCSD Vending Machine Data Analysis
+# IVCSD Data Aggregation
+
+This repo aims to collect all the scripts for data analysis and graph-making for all IVCSD related needs. 
 
 ## Install
 
@@ -22,4 +24,4 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Open the notebook `Notebook.ipynb` in Jupyterlab and follow the instructions there.
+1. Open `Notebook.ipynb` in the relevant folder and follow the instructions there.
