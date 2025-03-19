@@ -25,3 +25,4 @@ pip install -r requirements.txt
 ## Usage
 
 1. Open `Notebook.ipynb` in the relevant folder and follow the instructions there.
+2. This repo utilizes `aquarel` Python Matplotlib themes for formatting. You can find the pre-defined themes [here](https://github.com/lgienapp/aquarel) 
