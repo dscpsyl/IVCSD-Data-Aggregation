@@ -174,3 +174,5 @@ data/
 !data/.gitinclude
 output/
 !output/.gitinclude
+
+.DS_store
